@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 205, 248);
+  }
+  
+  h1 {
+    font-size: 3.5rem;
+    color: rgb(110, 7, 7);
+
+  }
+  
+  h2{
+    font-size: 2rem;
+    color: rgb(45, 0, 64);
+
+    
+  }
+
+  p{
+      font-size: 1.5rem;
+      color: rgb(11, 36, 150);
+  }
+  .manual{
+    font-size: 1.5rem;
+    color: rgb(0, 0, 0);
+
+    
+  }
+  
+  .guessField{
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+
+  }
+
+  .guessSubmit{
+    font-size: 1rem;
+    color: rgb(219, 0, 0);
+
+  }
+
+  .result{
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+
+
+  }
+
+  .history{
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+
+  }
+  .turn{
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+
+  }
+  button{
+    font-size: 2rem;
+    color: rgb(14, 3, 3);
+
+  }
